@@ -1,4 +1,7 @@
 # Homework 1
+### Jackson Porter
+### 1/30/2020
+### CMPS 2143 OOP
 ## Definitions
 #### 1. Abstraction
 #####    - The act of representing essential features without including background details or explanations.
