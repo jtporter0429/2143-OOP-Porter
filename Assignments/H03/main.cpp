@@ -331,14 +331,14 @@ class MyVector {
       int minv = Head;      //Min value = Head value
       Node<T>* mint = Start;//Min temp pointer is Head
       bool doSwap = 0;      //Swap is false, assumes Head is lowest
-
+        //As long as min temp is not NULL
       while (mint) {
         if (asc) {
           doSwap = (mint->data < minv);//does nothing if mint value is lower than minv
         } else {
           doSwap = (mint->data > minv);//initiates swap if mint > minv
         }
-
+        //Set next lowest value for comparison
         if (doSwap) {
           minp = mint;
           minv = mint->data;
@@ -346,7 +346,7 @@ class MyVector {
         mint = mint->next;
       }
 
-      // swap
+      // Does the swap to start from new low value
       minp->data = Start->data;
       Start->data = minv;
 
