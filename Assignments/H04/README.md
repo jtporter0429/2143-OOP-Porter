@@ -37,16 +37,16 @@
 
 ### Hand
 
-<img src="https://github.com/jtporter0429/Pictures-for-markdown/blob/master/Hand%20Class.png)" width="200">
+<img src="https://github.com/jtporter0429/Pictures-for-markdown/blob/master/Hand%20Class.png" width="200">
 
 ### Player
 
-<img src="https://github.com/jtporter0429/Pictures-for-markdown/blob/master/Player%20Class.png)" width="200">
+<img src="https://github.com/jtporter0429/Pictures-for-markdown/blob/master/Player%20Class.png" width="200">
 
 ### Poker Game
 
-<img src="https://github.com/jtporter0429/Pictures-for-markdown/blob/master/Game%20Class.png)" width="200">
+<img src="https://github.com/jtporter0429/Pictures-for-markdown/blob/master/Game%20Class.png" width="200">
 
 ### Whole Class Diagram
 
-<img src="https://github.com/jtporter0429/Pictures-for-markdown/blob/master/Class%20Diagram.png)" width="250">
+<img src="https://github.com/jtporter0429/Pictures-for-markdown/blob/master/Class%20Diagram.png" width="250">
