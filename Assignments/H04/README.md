@@ -24,9 +24,7 @@
  
 -->
 
-## Jackson Porter
-## 2143 - OOP
-## 2/18/2020
+# H04 - Class Diagrams
 ### Card
 
 <img src="https://github.com/jtporter0429/Pictures-for-markdown/blob/master/Card%20Class.png" width="200">
